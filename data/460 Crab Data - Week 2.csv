@@ -1,0 +1,18 @@
+Time,Fasted 27 C,Fed 27 C,Fasted 13 C/Control,Fed 13 C,,,
+Fed,No,9:40 AM,No,9:40 AM,,,
+1:35 PM,< 20 mg/dL,< 20 mg/dL,< 20 mg/dL,< 20 mg/dL,,,
+2:05 PM,< 20 mg/dL,< 20 mg/dL,< 20 mg/dL,< 20 mg/dL,,,
+2:35 PM,< 20 mg/dL,< 20 mg/dL,< 20 mg/dL,< 20 mg/dL,,,
+3:05 PM,< 20 mg/dL,< 20 mg/dL,< 20 mg/dL,< 20 mg/dL,,,
+3:35 PM,< 20 mg/dL,< 20 mg/dL,< 20 mg/dL,< 20 mg/dL,,,
+,,,,,,,
+,,,,,,,
+Date,Reading,Column 2,Time,Fasted 27°C,Fed 27°C,Fasted 13°C,Fed 13°C
+5/12/25,1,3.92,1:35 PM,< 20 mg/dL,< 20 mg/dL,< 20 mg/dL,< 20 mg/dL
+5/12/25,2,4.42,2:05 PM,< 20 mg/dL,< 20 mg/dL,< 20 mg/dL,< 20 mg/dL
+5/12/25,3,4.92,2:35 PM,< 20 mg/dL,< 20 mg/dL,< 20 mg/dL,< 20 mg/dL
+5/12/25,4,5.42,3:05 PM,<20 mg/dL,<20 mg/dL,<20 mg/dL,<20 mg/dL
+5/12/25,5,5.92,3:35 PM,<20 mg/dL,<20 mg/dL,<20 mg/dL,< 20 mg/dL
+,,,,,,,
+,,,,,,,
+,,,3.92,4.42,4.92,5.42,5.92
